@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://120.79.167.186:3306/lfy
+    username: lfy
+    password: asd1315547555
+#  session生效时间
+  session:
+    timeout: 86400
+
+
